@@ -8,4 +8,4 @@ The respective model's .ipynb file has been uploaded as well along with their re
 
 Here are the final results (average values):
 
-<img src="./final.jpg">
+<img src="final.jpg">
