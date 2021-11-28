@@ -8,7 +8,7 @@ Along with this, we have tested the VGG-16 model (which got the highest accuraci
 
 The respective model's .ipynb file has been uploaded as well along with their respective weights (the loading of the weights is shown in the notebooks as well)
 
-The dataset can be found in kaggle websites, MNIST's own website and from keras as well
+The dataset can be found on kaggle websites, MNIST's own website and from keras as well
 
 Here are the final results (average values):
 
